@@ -111,20 +111,4 @@ product.updateProduct(cereza)
 
 arreglar no poder agregar dos productos distintos
 arreglar updateProduct
-arreglar deleteProduct */
-
-let product = new ProductManager()
-
-product.addProducts("Naranja", "Orange", 10, "https://images.emojiterra.com/google/android-pie/512px/1f34e.png", 500, 100)/* 
-product.addProducts("Naranja", "Orange", 10, "https://images.emojiterra.com/google/android-pie/512px/1f34e.png", 500, 100)
-product.addProducts("Manzana", "Red", 10, "https://images.emojiterra.com/google/android-pie/512px/1f34e.png", 50, 100) */
-/* let cereza = {
-    title: "Cereza",
-    description: "Roja",
-    price: 5,
-    image: "imagen",
-    code: 101,
-    stock: 5000,
-    id: 1
-} 
-product.updateProduct(cereza) */
+agregar/arreglar deleteProduct */
